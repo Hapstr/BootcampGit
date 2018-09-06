@@ -5,7 +5,7 @@
 
 import matplotlib.pyplot as plt
 import Biopython
-from HTfunctions import *
+from HTfunctions-2 import *
 import numpy as np
 import numpy as np
 
